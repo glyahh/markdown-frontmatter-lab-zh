@@ -1,0 +1,18 @@
+{
+  ".gitignore": "3c0ea2f86798eeca143746bbe052d4a3b595bd7e1edd19eaaf84619c0dcd6cc6",
+  "LICENSE": "da50a27edb9d1789a5ad72ae7e51ef4ff8490abec82259805867d789f154a129",
+  "README.md": "1b5ab54ccd170372ffdc784f883bc0bbd1e42068f825e121db06e3e6c5f2b27b",
+  "README.zh-CN.md": "c02923c8f3febb7c02d6c8850ad5cf2b31007f65f8c7a632b2785ff9a631da31",
+  "content_check.py": "be1411b980f2aa717bed895f1149bc888b76fb369a47639ed7430cb586ef835e",
+  "evidence/environment.json": "6b37ba118e176714a9652940ee2aabd0c475cc70f60126b7a6110b893367cbcf",
+  "evidence/tutorial-retest.json": "5ef2c2c4901be2238ee11bf4b4858e941204a8a8a207e6c061268690cf12353c",
+  "evidence/unit-tests.txt": "a5266ee88cef9d23969fda22718d17a9f6b0d0b5ee8f97a168c1db034d795f54",
+  "examples/after/article.md": "286cd35b5ecdd5b11a398805fba38757595e90a84df7ab31fb8eb760f449a710",
+  "examples/before/article.md": "c5270049983367aa895120ca06d9919864a48953aba2cc3f913b1da3ab629f58",
+  "examples/duplicate/a.md": "286cd35b5ecdd5b11a398805fba38757595e90a84df7ab31fb8eb760f449a710",
+  "examples/duplicate/b.md": "31a6e8f8740d4f43e3b4d4415d077d3250d76b4f56d10593315ed0c6b1e2acf2",
+  "licenses/PyYAML-LICENSE.txt": "8d3928f9dc4490fd635707cb88eb26bd764102a7282954307d3e5167a577e8a4",
+  "requirements.txt": "0969da99a0bc2a1b71ed50584560f4588a37567ac63af3ddbaf3c4617ca5621a",
+  "test_content_check.py": "7f00e54062288591947a7ba27cec5516b18146a9d9f5662eb6e6d154ce1fc0e5",
+  "verify_tutorial.py": "e8a1c527b9505897e487a09f8c349256e408c7d1e2be2e22c5a05cb315c3ab3d"
+}

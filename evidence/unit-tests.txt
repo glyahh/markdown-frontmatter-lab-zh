@@ -1,0 +1,15 @@
+test_anchor_rejected (test_content_check.Tests.test_anchor_rejected) ... ok
+test_duplicate_key (test_content_check.Tests.test_duplicate_key) ... ok
+test_duplicate_slug_and_unchanged (test_content_check.Tests.test_duplicate_slug_and_unchanged) ... ok
+test_html_filename_not_injected (test_content_check.Tests.test_html_filename_not_injected) ... ok
+test_invalid_date (test_content_check.Tests.test_invalid_date) ... ok
+test_missing (test_content_check.Tests.test_missing) ... ok
+test_no_body (test_content_check.Tests.test_no_body) ... ok
+test_unsafe_tag_rejected (test_content_check.Tests.test_unsafe_tag_rejected) ... ok
+test_valid (test_content_check.Tests.test_valid) ... ok
+test_wrong_types (test_content_check.Tests.test_wrong_types) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.007s
+
+OK

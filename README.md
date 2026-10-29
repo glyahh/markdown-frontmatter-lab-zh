@@ -1,2 +1,11 @@
-# markdown-frontmatter-lab-zh
-免费中文 Markdown 本地质检教程：YAML front matter 类型检查、修正验收与同目录 slug 冲突。Python + PyYAML，MIT；固定演示规则，不改稿、不发站。
+# Markdown 本地质检免费中文教程
+
+[阅读完整中文教程](README.zh-CN.md)：用原创虚构稿件完成三个实验——找出 YAML front matter 类型错误、检查修正稿、识别同一目录中的重复 slug。
+
+下载：仓库上方 **Code → Download ZIP**，解压后进入含 `content_check.py` 的目录，按教程创建虚拟环境并安装固定依赖 PyYAML 6.0.3。需要 Python 3.10+；首次依赖安装通常联网，安装后的检查不联网。仅在证据所列 Linux 环境复测，原生 Windows/macOS 及全新设备安装未验收。
+
+本工具使用演示用固定字段约定，不是任意 CMS 的通用规范，不改稿、不自动发站，也不验证正文事实或版权。只检查小写 `.md`；文件限额不是完整资源沙箱，不要直接用于陌生人上传服务。
+
+原创代码、教程、样稿与证据采用 [MIT 许可](LICENSE)；保留 [PyYAML 独立 MIT 许可证](licenses/PyYAML-LICENSE.txt)，未捆绑其源码或二进制。制作有 AI 协助，测试结果来自实际执行，不是客户案例或官方背书。
+
+不需要购买其他包，无注册、支付、数据上传入口或额外人工支持承诺。反馈请仅使用自编虚构样例，不上传真实稿件、客户资料或敏感报告；报告中的文件名和 SHA-256 不是匿名化保证。
